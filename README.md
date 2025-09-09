@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Projects
-- [**KBC Quiz Game in Python**]
+- [**KBC Quiz Game in Python**] - https://github.com/vai874/Portfolio/blob/main/KBC%20Quiz%20Game.py
 
 *(✨ More projects coming soon...)*
 
@@ -25,7 +25,7 @@
 ## 🌍 Connect With Me
 - 📫 **Email:** bandgarvaibhav119@gmail.com  
 - 💼 **LinkedIn:** http://linkedin.com/in/vaibhav-bandgar-78b488337  
-- 🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- 🐙 **GitHub:** https://github.com/vai874
 
 ---
 
